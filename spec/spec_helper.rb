@@ -1,3 +1,2 @@
 require 'rspec'
-require 'rectangle'
-require 'square'
+require 'stereotypes'

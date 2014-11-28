@@ -3,11 +3,12 @@
 ## Setup:
 
 * Clone and set up your repo
-* Run bundle install
-* Import the stories
+* Run `bundle`
+* Run specs with `rspec`
 
 ## Instructions
 
-* Work on and complete the stories in order
-* Git add, commit and push regularly
-* Submit your repo in 'Students'
+Update the code in `lib/stereotypes.rb` to remove duplicate methods by having
+classes inherit from other classes.
+
+BONUS: Add a new spec and a new class for the Irish, who say "Top'o the mornin'!"
